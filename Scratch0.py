@@ -63,7 +63,9 @@
 #     print(f"CEO for {domain}: {ceo_search_result}")
 
 
-## Second Try, using BeautifulSoup"""
+## Second Try, using BeautifulSoup
+
+"""
 from bs4 import BeautifulSoup
 import requests
 
